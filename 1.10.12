@@ -1,0 +1,2 @@
+Requirement already satisfied: pydantic in c:\programdata\anaconda3\lib\site-packages (1.10.13)
+Requirement already satisfied: typing-extensions>=4.2.0 in c:\users\abdelrahman\appdata\roaming\python\python39\site-packages (from pydantic) (4.8.0)
